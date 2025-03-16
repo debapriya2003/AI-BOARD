@@ -40,7 +40,7 @@ export default function DrawingChatbot(): JSX.Element {
         },
         {
           headers: {
-            Authorization: "Bearer fT6zRtXbsNQRbW1sWc0Uawv8kK1dwy0N",
+            Authorization: "Bearer ",
             "Content-Type": "application/json",
           },
         }
